@@ -34,6 +34,7 @@
     "lib/contexts"
   ],
   "dependencies": {
+    "base58-universal": "^1.0.0",
     "commander": "^2.20.3",
     "credentials-context": "^1.0.0",
     "debug": "^4.1.1",
